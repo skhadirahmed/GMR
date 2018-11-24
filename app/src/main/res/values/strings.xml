@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">GMR</string>
     <string name="this_is_a_sample_text">This is a sample text</string>
+    <string name="enter_college_id">Enter College ID</string>
+    <string name="y15itxxx">Y15ITxxx</string>
+    <string name="results">Results</string>
+    <string name="calculate_cgpa">Calculate CGPA</string>
+    <string name="sgpa_9_7">SGPA 9.7</string>
+    <string name="enter_grades">Enter Grades</string>
+    <string name="calculate">calculate</string>
+    <string name="crash">Crash</string>
 </resources>
